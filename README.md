@@ -1,2 +1,2 @@
-# Whale-Optimization1
-Matlab Code
+# Whale-Optimization
+Digital Filter Design using Heuristic Optimization Algorithm
